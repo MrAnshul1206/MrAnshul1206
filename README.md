@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrAnshul1206
-- 👀 I’m interested in ...#WEB_Developing & APP Developing
-- 🌱 I’m currently learning ...PYTHON
+- 👀 I’m interested in ...#WEB_Development & APP Development
+- 🌱 I’m currently learning ...DART & FLUTTER
 - 💞️ I’m looking to collaborate on ...GOOGLE
-- 📫 How to reach me ...MY INSTA- Anshulthakur_1206
+- 📫 How to reach me ...MY INSTA- anshulgothwal_1206
 - ⚡ Fun fact: ..I'M ALSO A WRITER_(LEKHAK HU)
 
 <!---
