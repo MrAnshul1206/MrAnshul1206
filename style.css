@@ -8,6 +8,8 @@
     background-color: #0f1111;
 }  
 a {
-    margin-right: 200px;
+    margin-right: 600px;
 }
-body {background-image:url(https://i.pinimg.com/1200x/b4/f5/5c/b4f55c31ea614a0323dafa346cd0397b.jpg)}
+body {background-image:url(https://i.pinimg.com/1200x/b4/f5/5c/b4f55c31ea614a0323dafa346cd0397b.jpg)
+     background-size: cover
+     }
